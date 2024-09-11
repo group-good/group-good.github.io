@@ -45,7 +45,7 @@ Most of these elements are styled by browsers with few modifications on our part
 
 #### Heading 4
 
-12345678978
+123456
 
 ## Code
 
