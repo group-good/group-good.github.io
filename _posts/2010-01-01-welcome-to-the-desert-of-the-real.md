@@ -1,8 +1,8 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-09-13 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: The first meeting with the tutored
+subtitle: Discuss the topic of graduation project, and get familiar with each other
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
