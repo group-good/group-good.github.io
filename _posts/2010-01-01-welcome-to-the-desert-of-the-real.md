@@ -36,10 +36,11 @@ HTML defines a long list of available inline tags, a complete list of which can 
 
 Most of these elements are styled by browsers with few modifications on our part.
 
-# Heading 1
+# INTRODUCTION
+On the morning of September 11, the three of us went to the supervisor's office together. We had our first meeting with the supervisor. Mr. Liu Huaqiang, who majored in the field of heat, introduced to us the project he was currently working on, which was about battery thermal management, improving battery performance and keeping the battery in the best working condition. Teacher Liu introduced the relevant content of graduation project to us, shared some of his teaching experience for many years, alleviated our anxiety about thesis and design, and also introduced the topic direction that we can consider, including still, battery radiator and so on. The atmosphere during the chat was very relaxed and we were grateful to have such a responsible and attentive instructor.
 
-## Heading 2
-
+## Topic selection
+As for the topic selection, under the guidance of the teacher, we chose the relatively familiar topic of battery thermal management. After discussion among group members and information query on the Internet, we determined the research focus of our paper respectively, including the design of cold plate and the optimization of radiator, etc. We will carry out further design and improvement through more information query.
 ### Heading 3
 
 #### Heading 4
