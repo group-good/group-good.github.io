@@ -15,11 +15,11 @@ author: Siyu Tan, Rouxi Chen, Junxi Jiang
 ---
 
 # GROUP
-  -members: Siyu Tan, Junxi Jiang, Rouxi Chen
+  -Members: Siyu Tan, Junxi Jiang, Rouxi Chen
  
-  -name: 3in1
+  -Name: 3in1
  
-  -slogan: Three peas in a pod.
+  -Slogan: Three peas in a pod.
  
   -It means that the three of us are united, and a team can create three times the value!
 
