@@ -3,11 +3,9 @@ date: 2024-09-13 23:48:05
 layout: post
 title: The first meeting with the tutored
 subtitle: Discuss the topic of graduation project, and get familiar with each other
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+image: >-![2c0c2df91a8501d9462ee7c3ea4001f](https://github.com/user-attachments/assets/a3077dc0-fd2d-47f0-ba30-f60aaa8aee20)
+
+  
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
