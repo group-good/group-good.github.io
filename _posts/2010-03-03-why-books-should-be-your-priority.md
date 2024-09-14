@@ -1,139 +1,35 @@
 ---
-date: 2024-09-15 12:26:40
+date: 2024-09-15 23:48:05
 layout: post
-title: Welcome to the Salted Fish~
-subtitle: Salted Fish Come On!
-description: The utility model relates to a dual-purpose anti-icing device used on the surface of a ship hull or directly placed on a lake surface.
+title: Welcome to the Salted Fish! 
+subtitle: The first week's meeting with the mentor.
+image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+optimized_image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - project
   - blog
-author: Yan Lyu, Ziqi Zhang, Yitong Wang
+author: Yan Lyu
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+# GROUP MEMBERS
+## Yan Lyu, Ziqi Zhang, Yitong Wang
+# MENTOR
+## Benli Peng
+# GROUP NAME AND SLOGAN
+## Salted Fish: Salted fish come on!
+  -It means that no matter who you are, you can achieve results beyond your imagination
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+# INTRODUCTION
+On the morning of September 12th, our team held its first offline meeting with Professor Peng Benli at 9:00 a.m. During the meeting, Professor Peng proposed several ideas and plans. After discussing our personal interests and aligning them with Professor Peng's research field, we finalized the project topic as "Research on an Intelligent Anti-Icing System for Ship Hulls Based on Phase Change Materials and Heat Pipe Technology."
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-<!--page-->
-
-## Team Members
-- **Yan Lyu,Ziqi Zhang,Yitong Wang**.
-## Project Advisor
-- **Benli Peng**.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-<!--page-->
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-<!--page-->
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+## PROJECT CONTENT
+The phenomenon of icing has an important impact on the engine performance and water driving ability of ships, so it is necessary to carry out anti-icing tests during the development of ships. Effective anti-icing will have a significant impact on shipping and other fields. The main purpose of the new anti-icing equipment is to design a dual-use anti-icing equipment used on the hull surface or directly placed on the lake surface. The equipment has innovations in surface materials, thermal energy storage and other aspects. During the day, the device absorbs as much solar energy as possible through the light tracking device, and together with the heat energy generated by the engine, it is transmitted from the evaporative section of the heat pipe to the adiabatic section and then to the condensating section, which is stored by the phase change. After the temperature changes at night, the phase changes reversly compared with the day, and the heat energy stored during the day is released, making it difficult for the water near the device to freeze. We expect to make a complete set of equipment this year, which can be used in real life and ensure the integrity of the above functions and advantages. We need to master the knowledge of material science, mechanics and so on. In the equipment surface material coating, we need to find out the special anti-icing materials by searching for information and experiments; In the phase change heat storage, we also need to find out the phase change at the appropriate temperature of the material, as well as the improvement and use of heat pipe.
 
 ## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
+![placeholder]([https://placehold.it/800x400 "Large example image"](https://kdocs.cn/l/ckD1D3uTWmFV))
 
 
 
