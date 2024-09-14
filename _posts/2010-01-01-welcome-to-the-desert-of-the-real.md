@@ -4,9 +4,9 @@ layout: post
 title: Welcome to the 3in1! 
 subtitle: Discuss the topic of graduation project, and get familiar with each other
 image: >-  
-  http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg
+  ![placeholder](http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg)
 optimized_image: >- 
-  http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg
+  ![placeholder](http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg)
 category: blog
 tags:
   - welcome
