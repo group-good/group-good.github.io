@@ -27,14 +27,6 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
 
 # INTRODUCTION
 On the morning of September 11, the three of us went to the supervisor's office together. We had our first meeting with the supervisor. Mr. Liu Huaqiang, who majored in the field of heat, introduced to us the project he was currently working on, which was about battery thermal management, improving battery performance and keeping the battery in the best working condition. Teacher Liu introduced the relevant content of graduation project to us, shared some of his teaching experience for many years, alleviated our anxiety about thesis and design, and also introduced the topic direction that we can consider, including still, battery radiator and so on. The atmosphere during the chat was very relaxed and we were grateful to have such a responsible and attentive instructor.
