@@ -1,16 +1,16 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2024-09-15 12:26:40
 layout: post
-title: The quick brown fox jumps over a lazy dog
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Welcome to the Salted Fish
+subtitle: The first week's meeting with the mentor
+description: The utility model relates to a dual-purpose anti-icing device used on the surface of a ship hull or placed on a water surface
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+category: blog
 tags:
-  - css
-  - tips
-author: mranderson
+  - project
+  - blog
+author: Yan Lyu
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
