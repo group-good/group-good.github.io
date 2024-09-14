@@ -1,11 +1,10 @@
 ---
 date: 2024-09-15
 layout: post
-title: Welcome to the Salted Fish Team
+title: Welcome to the Salted Fish Team~
 subtitle: 'Salted fish come on!'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  A new type of anti-icing device ensures that the ship is not affected by low temperature when traveling in water.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
