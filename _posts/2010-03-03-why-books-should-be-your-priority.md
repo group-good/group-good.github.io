@@ -1,17 +1,14 @@
 ---
-date: 2024-9-15 12:26:40
+date: 2024-09-15 12:26:40
 layout: post
 title: Welcome to the Salted Fish~
 subtitle: Salted Fish Come On!
 description: The utility model relates to a dual-purpose anti-icing device used on the surface of a ship hull or directly placed on a lake surface.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+category: blog
 tags:
-  - books
-  - read
-author: mranderson
-paginate: true
+  - project
+  - blog
+author: Yan Lyu, Ziqi Zhang, Yitong Wang
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
