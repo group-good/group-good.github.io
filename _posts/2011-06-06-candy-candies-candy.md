@@ -1,8 +1,10 @@
+
+
 ---
-date: 2024-09-14 19:48:05
+date: 2024-09-13 23:48:05
 layout: post
-title: Welcome to the Salted Fish! 
-subtitle: The first week's meeting with the mentor.
+title: Welcome to the 3in1! 
+subtitle: Discuss the topic of graduation project, and get familiar with each other
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -11,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: Yan Lyu
+author: Siyu Tan, Rouxi Chen, Junxi Jiang
 ---
 
 # GROUP
@@ -31,8 +33,6 @@ As for the topic selection, under the guidance of the teacher, we chose the rela
 
 ## Images
 ![placeholder]([https://placehold.it/800x400 "Large example image"](https://kdocs.cn/l/ckD1D3uTWmFV))
-
-
 
 
 
