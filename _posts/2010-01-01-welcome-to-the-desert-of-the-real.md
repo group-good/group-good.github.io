@@ -12,18 +12,9 @@ category: blog
 tags:
   - welcome
   - blog
-author: mranderson
-paginate: true
+author: Siyu Tan, Rouxi Chen, Junxi Jiang
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+In today's new energy vehicle market, the position of the battery as the core power source is increasingly prominent, and the battery thermal management system is the key to ensure the efficient and stable work of the battery. This graduation project aims to develop a set of advanced battery thermal management system, which aims to ensure that the battery can be maintained in the best working state under various environmental conditions by intelligently regulating the battery temperature. We will explore liquid cooling technology as the main temperature control means, supplemented by accurate temperature sensor networks and adaptive control algorithms, and strive to achieve maximum battery life. By comprehensively testing the system's performance under a variety of operating conditions, we expect to be able to provide a valuable reference for future EV design.
 
 
 # INTRODUCTION
