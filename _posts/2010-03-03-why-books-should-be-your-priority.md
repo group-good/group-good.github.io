@@ -1,9 +1,9 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2024-9-15 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Welcome to the Salted Fish~
+subtitle: Salted Fish Come On!
+description: The utility model relates to a dual-purpose anti-icing device used on the surface of a ship hull or directly placed on a lake surface.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
@@ -23,11 +23,9 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 <!--page-->
 
 ## Team Members
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
+- **Yan Lyu,Ziqi Zhang,Yitong Wang**.
+## Project Advisor
+- **Benli Peng**.
 - Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 - Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
 - <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
