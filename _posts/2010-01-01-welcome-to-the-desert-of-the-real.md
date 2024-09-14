@@ -34,3 +34,16 @@ As for the topic selection, under the guidance of the teacher, we chose the rela
 
 ## TALK WITH INSTRUCTOR
 (https://i.afbcs.cn/HwHkZZ)
+
+## Inline HTML elements
+
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
+* **To bold text**, use `<strong>`.
+* *To italicize text*, use `<em>`.
+* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+* Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
+* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
+* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+
+Most of these elements are styled by browsers with few modifications on our part.
