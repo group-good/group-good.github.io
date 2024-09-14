@@ -4,9 +4,9 @@ layout: post
 title: Welcome to the 3in1! 
 subtitle: Discuss the topic of graduation project, and get familiar with each other
 image: >-  
-  ![placeholder](http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg)
+  https://res.cloudinary.com/dt0hlpozw/image/upload/v1726325522/logo-color_xxh7be.png
 optimized_image: >- 
-  ![placeholder](http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg)
+  https://res.cloudinary.com/dt0hlpozw/image/upload/v1726325522/logo-color_xxh7be.png
 category: blog
 tags:
   - welcome
@@ -33,4 +33,4 @@ On the morning of September 11, the three of us went to the supervisor's office 
 As for the topic selection, under the guidance of the teacher, we chose the relatively familiar topic of battery thermal management. After discussion among group members and information query on the Internet, we determined the research focus of our paper respectively, including the design of cold plate and the optimization of radiator, etc. We will carry out further design and improvement through more information query.
 
 ## LOGO
-![placeholder](http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322690875.png)
+![placeholder](https://res.cloudinary.com/dt0hlpozw/image/upload/v1726325450/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914175116_new_u18vbp.jpg)
