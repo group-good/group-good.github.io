@@ -33,4 +33,4 @@ On the morning of September 11, the three of us went to the supervisor's office 
 As for the topic selection, under the guidance of the teacher, we chose the relatively familiar topic of battery thermal management. After discussion among group members and information query on the Internet, we determined the research focus of our paper respectively, including the design of cold plate and the optimization of radiator, etc. We will carry out further design and improvement through more information query.
 
 ## TALK WITH INSTRUCTOR
-(https://i.afbcs.cn/HwHkZZ)
+http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322690875.png
