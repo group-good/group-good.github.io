@@ -3,10 +3,10 @@ date: 2024-09-13 23:48:05
 layout: post
 title: Welcome to the 3in1! 
 subtitle: Discuss the topic of graduation project, and get familiar with each other
-image: >-
-  https://kdocs.cn/l/ckD1D3uTWmFV.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+image: >-  
+  http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg
+optimized_image: >- 
+  http://img2.mangoerp.com/userbucket/stan24/2024-09-14/1726322599216.jpg
 category: blog
 tags:
   - welcome
