@@ -13,9 +13,9 @@ tags:
   - blog
 author: Siyu Tan, Rouxi Chen, Junxi Jiang
 ---
-In today's new energy vehicle market, the position of the battery as the core power source is increasingly prominent, and the battery thermal management system is the key to ensure the efficient and stable work of the battery. This graduation project aims to develop a set of advanced battery thermal management system, which aims to ensure that the battery can be maintained in the best working state under various environmental conditions by intelligently regulating the battery temperature. We will explore liquid cooling technology as the main temperature control means, supplemented by accurate temperature sensor networks and adaptive control algorithms, and strive to achieve maximum battery life. By comprehensively testing the system's performance under a variety of operating conditions, we expect to be able to provide a valuable reference for future EV design.
 
 # GROUP
+members: Siyu Tan, Junxi Jiang, Rouxi Chen
 name: 3in1
 slogan: Three peas in a pod.
 It means that the three of us are united, and a team can create three times the value!
@@ -27,4 +27,4 @@ On the morning of September 11, the three of us went to the supervisor's office 
 As for the topic selection, under the guidance of the teacher, we chose the relatively familiar topic of battery thermal management. After discussion among group members and information query on the Internet, we determined the research focus of our paper respectively, including the design of cold plate and the optimization of radiator, etc. We will carry out further design and improvement through more information query.
 
 ## Images
-([https://placehold.it/800x400 "Large example image"](https://kdocs.cn/l/ckD1D3uTWmFV))
+![placeholder]([https://placehold.it/800x400 "Large example image"](https://kdocs.cn/l/ckD1D3uTWmFV))
