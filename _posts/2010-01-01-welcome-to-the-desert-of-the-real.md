@@ -3,6 +3,10 @@ date: 2024-09-13 23:48:05
 layout: post
 title: The first meeting with the tutored
 subtitle: Discuss the topic of graduation project, and get familiar with each other
+image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+optimized_image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - welcome
@@ -19,7 +23,5 @@ On the morning of September 11, the three of us went to the supervisor's office 
 As for the topic selection, under the guidance of the teacher, we chose the relatively familiar topic of battery thermal management. After discussion among group members and information query on the Internet, we determined the research focus of our paper respectively, including the design of cold plate and the optimization of radiator, etc. We will carry out further design and improvement through more information query.
 
 ## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
 ![placeholder]([https://placehold.it/800x400 "Large example image"](https://kdocs.cn/l/ckD1D3uTWmFV))
