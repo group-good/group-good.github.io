@@ -1,14 +1,13 @@
 ---
-date: 2024-09-29 23:48:05
+date: 2024-9-30 12:26:40
 layout: post
-title: Project Pitch Slides
-image: >-https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
-optimized_image: >-https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
-category: blog
+title: Pitch PPT
+image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
+optimized_image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
 tags:
-  - PPT
-  - blog
-author: Siyu Tan, Junxi Jiang, Rouxi Chen
+ - team
+ - blog
+author: Siyu Tan，Junxi Jiang, Rouxi Chen
 
 ---
 
