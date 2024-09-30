@@ -4,8 +4,7 @@ layout: post
 title: week4 porject introduction
 subtitle: Battery Thermal Management System Design: Liquid Cooling Innovation & Optimization
 image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
-optimized_image: 
-https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
+optimized_image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
 tag:
  - team
  - blog
