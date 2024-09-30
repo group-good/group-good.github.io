@@ -1,5 +1,4 @@
 ---
----
 date: 2024-09-29 23:48:05
 layout: post
 title: Project Pitch Slides
@@ -13,6 +12,7 @@ tags:
   - PPT
   - blog
 author: Yan Lyu
+
 ---
 
 ### Team Members: Yan Lyu, Ziqi Zhang, Yitong Wang
