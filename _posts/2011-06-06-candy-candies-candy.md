@@ -4,6 +4,7 @@ layout: post
 title: Pitch PPT
 image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
 optimized_image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
+category: blog#2
 tags:
  - team
  - blog
