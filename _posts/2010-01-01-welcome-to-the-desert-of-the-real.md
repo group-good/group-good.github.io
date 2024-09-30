@@ -7,7 +7,7 @@ image: >-
   https://res.cloudinary.com/dt0hlpozw/image/upload/v1726325522/logo-color_xxh7be.png
 optimized_image: >- 
   https://res.cloudinary.com/dt0hlpozw/image/upload/v1726325522/logo-color_xxh7be.png
-category: blog
+category: blog#1
 tags:
   - welcome
   - blog
