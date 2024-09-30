@@ -2,7 +2,6 @@
 date: 2024-09-29 23:48:05
 layout: post
 title: Project Pitch Slides
-subtitle: 3in1 go go go!
 image: >-https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
 optimized_image: >-https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a4107186160dd36c8a0867a63d_gwta4t.png
 category: blog
