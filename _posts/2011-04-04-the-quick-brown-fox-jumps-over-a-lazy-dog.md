@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/dt0hlpozw/image/upload/v1727679969/1c004a41071
 tags:
  - team
  - blog
-author：Siyu Tan，Junxi Jiang, Rouxi Chen
+author: Siyu Tan，Junxi Jiang, Rouxi Chen
 
 ---
 
